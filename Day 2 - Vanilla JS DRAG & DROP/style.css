@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+
+.main-container{
+    display: flex;
+    margin: 0 auto;
+    max-width: 850px;
+}
+
+.container{
+    height: 200px;
+    width: 400px;
+    background-color: grey;
+    padding:25px;
+    margin: 25px;
+}
